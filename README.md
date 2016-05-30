@@ -1,4 +1,4 @@
-
+##Angular 2 Game
 ```
 2: Install packages
 ```
